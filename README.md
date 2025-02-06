@@ -39,3 +39,8 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+
+
+Screenshot
+
+https://github.com/suryanshp1/deepseek-streamlit-chat-app/blob/main/deepseek.png
