@@ -43,4 +43,5 @@ streamlit run app.py
 
 Screenshot
 
-https://github.com/suryanshp1/deepseek-streamlit-chat-app/blob/main/deepseek.png
+
+![Screenshot 1](https://raw.githubusercontent.com/suryanshp1/deepseek-streamlit-chat-app/refs/heads/main/deepseek.png)
